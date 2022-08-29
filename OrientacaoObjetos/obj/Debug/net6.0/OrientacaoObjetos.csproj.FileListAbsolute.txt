@@ -1,0 +1,15 @@
+C:\Quinta\OrientacaoObjetos\bin\Debug\net6.0\OrientacaoObjetos.exe
+C:\Quinta\OrientacaoObjetos\bin\Debug\net6.0\OrientacaoObjetos.deps.json
+C:\Quinta\OrientacaoObjetos\bin\Debug\net6.0\OrientacaoObjetos.runtimeconfig.json
+C:\Quinta\OrientacaoObjetos\bin\Debug\net6.0\OrientacaoObjetos.dll
+C:\Quinta\OrientacaoObjetos\bin\Debug\net6.0\OrientacaoObjetos.pdb
+C:\Quinta\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.csproj.AssemblyReference.cache
+C:\Quinta\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Quinta\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.AssemblyInfoInputs.cache
+C:\Quinta\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.AssemblyInfo.cs
+C:\Quinta\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.csproj.CoreCompileInputs.cache
+C:\Quinta\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.dll
+C:\Quinta\OrientacaoObjetos\obj\Debug\net6.0\refint\OrientacaoObjetos.dll
+C:\Quinta\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.pdb
+C:\Quinta\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.genruntimeconfig.cache
+C:\Quinta\OrientacaoObjetos\obj\Debug\net6.0\ref\OrientacaoObjetos.dll

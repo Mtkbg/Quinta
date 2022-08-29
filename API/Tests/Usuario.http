@@ -1,0 +1,15 @@
+### Listar o usuario
+GET https://localhost:7167/api/usuario/listar
+
+### Buscar o usuario
+GET https://localhost:7167/api/usuario/buscar/gabi
+
+### Cadastrar um usuario
+POST  https://localhost:7167/api/usuario/cadastrar
+Content-Type: application/json
+
+{
+  "login" : "gabi", 
+  "senha" : "12345"
+}
+

@@ -1,0 +1,26 @@
+//Um único objeto - JSON - Notação em Objeto em JS
+{
+  "login" : "gabriela", 
+  "senha" : "1234",
+  "acessos" : 554,
+  "avaliacao" : 5.4,
+  "ativo" : true
+}
+
+//Vários objetos
+[
+  {
+    "login" : "gabriela", 
+    "senha" : "1234",
+    "acessos" : 554,
+    "avaliacao" : 5.4,
+    "ativo" : true
+  },
+  {
+    "login" : "gabriela", 
+    "senha" : "1234",
+    "acessos" : 554,
+    "avaliacao" : 5.4,
+    "ativo" : true
+  }
+]
